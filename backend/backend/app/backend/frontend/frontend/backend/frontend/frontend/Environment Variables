@@ -1,0 +1,7 @@
+SECRET_KEY = koi-lamba-random-string-likho
+ENVIRONMENT = production
+DEBUG = false
+WHISPER_MODEL = tiny
+WHISPER_DEVICE = cpu
+WHISPER_COMPUTE_TYPE = int8
+CORS_ORIGINS = ["https://YOUR-FRONTEND-URL.onrender.com"]
