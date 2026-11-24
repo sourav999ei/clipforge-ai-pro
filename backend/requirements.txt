@@ -12,8 +12,6 @@ aiofiles==24.1.0
 httpx==0.28.1
 yt-dlp==2024.12.23
 faster-whisper==1.1.0
-torch==2.5.1
-torchaudio==2.5.1
 numpy==1.26.4
 ffmpeg-python==0.2.0
 python-dotenv==1.0.1
